@@ -114,11 +114,79 @@ Get the related data through any source i.e web scraping, documents, data bases,
 
 > With decreased Cholesterol level, %age of Flat ST_Slope occurance has also dropped in Diabetes patients
 
+***DCND/ heart patients, cholesterol > 125, -ve diabetes***
+- **most** of patients are **below 50s**
+- **22%** have **0 Oldpeak**
+- **78%** have **Oldpeak > 0**
+- **69%** have **Abnormal Heart Rate**
+- **77%** have **Flat ST_Slope**
+- **14%** have **Up Slope**
+- **8%** have **Down Slope**
+
+- ***Out of 78% High Oldpeak DCND patients, 65% have Abnormal heart Rate***
+
+- ***Out of 22% 0 Oldpeak DCND patients, 80% have  abnormal heart rate***
+
+- ***DCND with Oldpeak > 0, Abnormal Heart Rate (DCNDGPAH/DCND+greater peak, abnormal heart-rate)***
+  Out of 65% abnormal heart rate patients from high oldpeak DCND patients;
+  - **73%** have **Flat Slope**
+  - **13.5%** have **Down Slope**
+
+- ***DCNDGP+Normal Heart-Rate / DNCDGPNH***
+  Out of 35% normal heart rate patients from high oldpeak DCND patients;
+  - **89%** have **Flat Slope**
+  - **8%** have **Down Slope**
+
+- ***DCND+0 peak+AH/ DNCDZPAH***
+  Out of 58% abnormal heart rate, 0 oldpeak DNCD patients;
+  - **62.5%** have **Flat Slope**
+  - **37.5%** have **Up Slope**
+
+- ***DCNDZPNH***
+  Out of 42% normal heart rate 0 oldpeak DNCD patients;
+  - **100%** have **Flat Slope**
+
+- ***100% patients with non Flat Slope, 0 Oldpeak have Abnormal heart rate***
+
+- ***82% patients with non Flat Slope, higher Oldpeak have Abnormal Heart Rate***
+
+> +ve diabetese, -ve cholesterol and their vice versa have almost similar statistics
+
+***Observing Heart patients with normal cholesterol, no diabetes***
+
+- ***One thing from above observations is clear that most of the heart patients are distributed across age 50-75***
+
+> Most of the patients exist in Age of 50-75
+
+> Having abnormal cholesterol level and diabetes is accompanied by Oldpeak > 0 and Flat ST_Slope
+
+> Higher cholesterol and +ve diabetes patients were mostly Heart Patients
+
+> Most of the Heart Patients had Cholesterol, not Sugar
+
+> Cholesterol appeared as the major cause of Heart Disease
+
+> Heart Disease is more common in Males
+
+> **conclusions;**
+
+>> **where cholesterol is above 125, Fasting Blood Sugar is not seen as factor of heart disease**
+
+>> **where cholesterol is below 90, Fasting Blood Sugar is seen common in heart patients**
+
+>> **Cholesterol is the most leading cause of Heart Disease**
+
+>> **Diabetes may also cause Heart Disease**
+
 ### **4- Deduce Theories**
 Based on the observations deduce your theory/ies about relationships in data and outcomes.
 
 #### **Deductions**
+> If Cholesterol level rises above 125, it will lead to Heart Disease.
 
+> If a person is Heart Patient but does not have higher cholesterol levels, then that person would be a Diabetic.
+
+> Males have a higher chance of Heart Disease
 
 ### **5- Test Theory/ies**
 Test your theory/ies to prove what you deduced from the observations.
